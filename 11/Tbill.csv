@@ -1,0 +1,9 @@
+Product,Price,Quantity,Total,
+Apple,2,65,130,
+Banana,65,4,260,
+Aple,55,5,275,
+Banana,65,5,325,
+Grape,65,5,325,
+Name,Product,Price,Quantity,Total
+Ram,Apple,65,5,325
+Ram,Banana,44,5,220
